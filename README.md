@@ -19,10 +19,9 @@
 ### supported mods
 
 - Aether legacy(aka The Aether Now)
-- 
 
 ## Release Notes
 
 ### 1.0.0
 
-Initial release of 2enscript.
+Initial release of Zenscript.
