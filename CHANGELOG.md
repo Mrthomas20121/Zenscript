@@ -8,3 +8,7 @@ Added support to aether legacy
 
 Added Just enough items support
 Fixed aether legacy support
+
+### 1.0.2
+
+Fixed Jei support
