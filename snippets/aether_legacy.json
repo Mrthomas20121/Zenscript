@@ -1,0 +1,23 @@
+{
+  "registerEnchantement": {
+    "prefix": "registerEnchantement",
+    "body":[
+        "Enchanter.registerEnchantment(input, output, time);"
+    ],
+    "description": "Out put messages"
+  },
+  "registerAccessory": {
+    "prefix": "registerAccessory",
+    "body":[
+        "Acessory.registerAccessory(input, accessory);"
+    ],
+    "description": "Out put messages"
+  },
+  "registerFreezable": {
+    "prefix": "registerAccessory",
+    "body":[
+        "registerFreezable(input, output, timeRequired);"
+    ],
+    "description": "Out put messages"
+  }
+}
