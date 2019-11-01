@@ -19,6 +19,7 @@
 ### supported mods
 
 - Aether legacy(aka The Aether Now)
+- Jei as of 1.0.1
 
 ## Release Notes
 
