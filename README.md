@@ -18,7 +18,6 @@ Zenscript add synthax highlighting to zs files and add snipets you can use
 ### supported mods
 
 - Aether legacy(aka The Aether Now)
-- 
 
 ## Release Notes
 
