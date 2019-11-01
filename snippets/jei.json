@@ -1,0 +1,51 @@
+{
+    "ImportJei":{
+        "prefix": "JeiImport",
+        "body":[
+            "import mods.jei.JEI;"
+        ],
+        "description": "Import Jei"
+    },
+    "JeiHide":{
+        "prefix": "JeiRemoveAndHide",
+        "body":[
+            "mods.jei.JEI.hide(${item});"
+        ],
+        "description": "Hide item from JEI"
+    },
+    "JeiRemoveAndHide":{
+        "prefix": "JeiRemoveAndHide",
+        "body":[
+            "mods.jei.JEI.removeAndHide(${item});"
+        ],
+        "description": "remove a item recipe and hide it in JEI"
+    },
+    "JeiRemoveAndHideNbtMatch":{
+        "prefix": "JeiRemoveAndHideNbtMatch",
+        "body":[
+            "mods.jei.JEI.removeAndHide(${item}, false);"
+        ],
+        "description": "remove a item recipe and hide it in JEI"
+    },
+    "JeiHideCategory":{
+        "prefix": "JeiHideCategory",
+        "body":[
+            "mods.jei.JEI.hideCategory(\"${category}\");"
+        ],
+        "description": "Hide a Category"
+    },
+    "JeiAddItem":{
+        "prefix": "JeiAddItem",
+        "body": [
+            "mods.jei.JEI.addItem(${item})"
+        ],
+        "description": "Add a item to Jei"
+    },
+    "JeiAddDesciption":{
+        "prefix": "JeiAddDesciption",
+        "body": [
+            "mods.jei.JEI.addDescription(${item},\"${description}\");"
+        ],
+        "description": "Add a description to a item in jei"
+    }
+}

@@ -1,4 +1,11 @@
 {
+  "ImportAether":{
+    "prefix": "AetherImport",
+    "body":[
+        "import mods.aether_legacy;"
+    ],
+    "description": "Import Aether"
+  },
   "registerEnchantement": {
     "prefix": "registerEnchantement",
     "body":[

@@ -11,7 +11,7 @@
         "body":[
             "import ${type:module};"
         ],
-        "description": "Import packet"
+        "description": "Import a mod"
     },
     "For":{
         "prefix": "for",
@@ -31,21 +31,21 @@
             "\t${branch2}",
             "}"
         ],
-        "description": "If element"
+        "description": "If element else element"
     },
     "Val":{
         "prefix": "val",
         "body":[
-            "val ${name} = ${expr1};"
+            "val ${name} = ${expression};"
         ],
-        "description": "Make val"
+        "description": "Create a variable"
     },
     "Var":{
         "prefix": "var",
         "body":[
-            "var ${name} = ${expr1};"
+            "var ${name} = ${expression};"
         ],
-        "description": "Make var"
+        "description": "Create a variable"
     },
     "Recipes":{
         "prefix": "recipes",

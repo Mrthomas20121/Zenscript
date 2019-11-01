@@ -1,6 +1,7 @@
 # Zenscript
 
-Zenscript add synthax highlighting to zs files and add snipets you can use
+- Zenscript add synthax highlighting to zs files and add snipets you can use
+- it based off https://github.com/CraftTweaker/ZsLint
 
 -----------------------------
 
