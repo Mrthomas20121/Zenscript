@@ -24,4 +24,4 @@
 
 ### 1.0.0
 
-Initial release of 2enscript.
+Initial release of Zenscript.
