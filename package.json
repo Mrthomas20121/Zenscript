@@ -65,7 +65,11 @@
 			},
 			{
 				"language": "ZenScript",
-				"path": "./snippets/neisupport.json"
+				"path": "./snippets/aether_legacy.json"
+			},
+			{
+				"language": "ZenScript",
+				"path": "./snippets/jei.json"
 			}
 		]
 	},
