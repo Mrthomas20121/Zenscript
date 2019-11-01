@@ -2,27 +2,30 @@
 	"name": "zenscript",
 	"displayName": "zenscript",
 	"description": "Syntax highliting for ZS",
-	"version": "0.0.3",
+	"version": "1.0.1",
 	"publisher": "Mrthomas20121",
+	"author": {
+		"name": "Mrthomas20121",
+		"email": "Mrthomas20121@live.com"
+	},
+	"engines": {
+		"vscode": "^1.39.0"
+	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/CraftTweaker/ZsLint"
+		"url": "https://github.com/Mrthomas20121/Zenscript"
 	},
-	"icon": "assets/zslint_logo.png",
+	"icon": "assets/Zenscript_logo.png",
 	"galleryBanner": {
 		"color": "#D3D3D3"
 	},
-	"engines": {
-		"vscode": "^1.23.0"
-	},
 	"categories": [
-		"Linters"
+		"Programming Languages"
 	],
 	"devDependencies": {
-		"@types/node": "^7.0.43",
+		"@types/node": "^7.10.9",
 		"tslint": "^5.8.0",
-		"typescript": "^2.6.1",
-		"vscode": "^1.1.6"
+		"typescript": "^2.6.1"
 	},
 	"activationEvents": [
 		"onLanguage:zenscript"
@@ -32,7 +35,6 @@
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
 		"watch": "tsc -watch -p ./",
-		"postinstall": "node ./node_modules/vscode/bin/install",
 		"test": "yarn run compile && node ./node_modules/vscode/bin/test"
 	},
 	"contributes": {
@@ -68,13 +70,11 @@
 		]
 	},
 	"dependencies": {
+		"@types/vscode": "^1.39.0",
 		"@types/ws": "^5.1.1",
-		"npm": "^6.0.1",
+		"npm": "^6.12.1",
+		"vscode-test": "^1.2.2",
 		"ws": "^5.1.1"
 	},
-	"__metadata": {
-		"id": "964e44a7-4fb0-44e0-8aaf-2da5430213a2",
-		"publisherId": "45e1de01-1e43-424a-b308-d3d036dee26b",
-		"publisherDisplayName": "BloodWorkXGaming"
-	}
+	"license": "MIT"
 }
