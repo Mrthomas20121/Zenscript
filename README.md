@@ -23,7 +23,8 @@
 
 ## Release Notes
 
-### 1.0.3
+### 1.0.4
 
-- Bumbed version to 1.0.3
-- fixed snipets not working properly
+- Bumbed version to 1.0.4
+- fixed typos
+- added contenttweaker support

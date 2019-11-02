@@ -1,8 +1,8 @@
 {
 	"name": "zenscript",
 	"displayName": "zenscript",
-	"description": "Syntax highliting for ZS",
-	"version": "1.0.3",
+	"description": "Syntax highlighting for Zenscript",
+	"version": "1.0.4",
 	"publisher": "Mrthomas20121",
 	"author": {
 		"name": "Mrthomas20121",
@@ -70,6 +70,14 @@
 			{
 				"language": "zenscript",
 				"path": "./snippets/jei.json"
+			},
+			{
+				"language": "zenscript",
+				"path": "./snippets/contenttweaker_import.json"
+			},
+			{
+				"language": "zenscript",
+				"path": "./snippets/contenttweaker_fluid.json"
 			}
 		]
 	},
