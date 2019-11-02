@@ -23,6 +23,7 @@
 
 ## Release Notes
 
-### 1.0.2
+### 1.0.3
 
-Fixed Jei support
+- Bumbed version to 1.0.3
+- fixed snipets not working properly

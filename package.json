@@ -2,7 +2,7 @@
 	"name": "zenscript",
 	"displayName": "zenscript",
 	"description": "Syntax highliting for ZS",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "Mrthomas20121",
 	"author": {
 		"name": "Mrthomas20121",
@@ -60,15 +60,15 @@
 		],
 		"snippets": [
 			{
-				"language": "ZenScript",
+				"language": "zenscript",
 				"path": "./snippets/zenscript.json"
 			},
 			{
-				"language": "ZenScript",
+				"language": "zenscript",
 				"path": "./snippets/aether_legacy.json"
 			},
 			{
-				"language": "ZenScript",
+				"language": "zenscript",
 				"path": "./snippets/jei.json"
 			}
 		]
