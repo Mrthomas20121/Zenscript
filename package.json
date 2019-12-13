@@ -84,7 +84,7 @@
 	"dependencies": {
 		"@types/vscode": "^1.39.0",
 		"@types/ws": "^5.1.1",
-		"npm": "^6.12.1",
+		"npm": "^6.13.4",
 		"vscode-test": "^1.2.2",
 		"ws": "^5.1.1"
 	},
