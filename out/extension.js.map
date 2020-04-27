@@ -1,1 +1,1 @@
-{"version":3,"file":"extension.js","sourceRoot":"","sources":["../src/extension.ts"],"names":[],"mappings":";;AAGA,uDAAgD;AAEhD,wEAAwE;AACxE,+DAA+D;AAC/D,kBAAyB,OAAyB;IAC9C,OAAO,CAAC,GAAG,CAAC,mCAAmC,CAAC,CAAC;IAEjD,IAAI,MAAM,GAAG,IAAI,yBAAe,EAAE,CAAC;IAEnC,MAAM,CAAC,QAAQ,CAAC,OAAO,CAAC,aAAa,CAAC,CAAC;AAC3C,CAAC;AAND,4BAMC"}
+{"version":3,"file":"extension.js","sourceRoot":"","sources":["../src/extension.ts"],"names":[],"mappings":";;AAIA,wEAAwE;AACxE,+DAA+D;AAC/D,kBAAyB,OAAyB;IAC9C,OAAO,CAAC,GAAG,CAAC,sCAAsC,CAAC,CAAC;AACxD,CAAC;AAFD,4BAEC"}
