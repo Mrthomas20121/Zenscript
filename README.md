@@ -2,13 +2,9 @@
 
 - Zenscript add synthax highlighting to zs files and add snipets you can use
 
------------------------------
-
 ## Features
 
 - synthax highlighting
-
------------------------------
 
 ## snipets
 
