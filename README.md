@@ -16,5 +16,5 @@
 - Jei as of 1.0.1
 - contenttweaker
 
-## plans
-autocompletion
+## planned
+- autocompletion like javascript/ts have
