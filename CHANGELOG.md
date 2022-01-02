@@ -24,3 +24,7 @@
 - Bumbed version to 1.0.4
 - fixed typos
 - added contenttweaker support
+
+### 2.0.0
+- removed snipets for mods
+- started 1.16-1.18 support.

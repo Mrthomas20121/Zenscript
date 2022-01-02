@@ -64,22 +64,6 @@
 			{
 				"language": "zenscript",
 				"path": "./snippets/zenscript.json"
-			},
-			{
-				"language": "zenscript",
-				"path": "./snippets/aether_legacy.json"
-			},
-			{
-				"language": "zenscript",
-				"path": "./snippets/jei.json"
-			},
-			{
-				"language": "zenscript",
-				"path": "./snippets/contenttweaker_import.json"
-			},
-			{
-				"language": "zenscript",
-				"path": "./snippets/contenttweaker_fluid.json"
 			}
 		]
 	},
