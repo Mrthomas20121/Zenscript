@@ -1,10 +1,8 @@
 # Zenscript
-
-- Add synthax highlighting to Zenscript(.zs) files.
+Zenscript is a Visual Studio Code extension that add syntax highlighting to the Zenscript/Zencode language.
 
 ## Features
-
-- synthax highlighting
+- syntax highlighting
 
 ## planned
-- autocompletion like javascript/ts have
+- autocompletion(similar to how Javascript/Typescript have it)
