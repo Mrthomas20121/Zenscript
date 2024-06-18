@@ -70,7 +70,7 @@
 	"dependencies": {
 		"npm": "^6.14.4",
 		"vscode-test": "^1.2.2",
-		"ws": "^5.1.1"
+		"ws": "^5.2.4"
 	},
 	"typings": "./src/api/crafttweaker.ts",
 	"license": "MIT"
